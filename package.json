@@ -1,9 +1,11 @@
 {
+  
   "name": "uni-converter",
   "version": "1.0.0",
   "private": true,
   "description": "Uni Converter - convert Word↔PDF, image→PDF, JPG↔JPEG in-browser (basic)",
-  "homepage": "https://amarhadpad1.github.io/uni-converter",
+  "homepage": ".",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
